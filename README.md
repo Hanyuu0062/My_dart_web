@@ -8,3 +8,6 @@ dart create -t web quickstart
 cd quickstart
 
 webdev serve
+
+# linux
+tlrd xx 可查指令
