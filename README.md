@@ -6,4 +6,5 @@ dart create -t web quickstart
 
 # Run the app
 cd quickstart
-$ webdev serve
+
+webdev serve
