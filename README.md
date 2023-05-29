@@ -1,5 +1,3 @@
-# My_dart_web
-
 # Get CLI tools or an IDE (or both)
 dart pub global activate webdev
 
