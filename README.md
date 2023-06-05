@@ -9,5 +9,7 @@ cd quickstart
 
 webdev serve
 
+注意提示
+
 # linux
 tlrd xx 可查指令
